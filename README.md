@@ -38,7 +38,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/container"
+    "github.com/muzonff/go-crypto-container/container"
 )
 
 func main() {
@@ -62,7 +62,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/container"
+   "github.com/muzonff/go-crypto-container/container"
 )
 
 func main() {
@@ -88,7 +88,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/container"
+    "github.com/muzonff/go-crypto-container/container"
 )
 
 func main() {
@@ -109,7 +109,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/container"
+    "github.com/muzonff/go-crypto-container/container"
 )
 
 func main() {
