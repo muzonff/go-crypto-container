@@ -22,7 +22,7 @@ If you are using Go modules, you can include it in your `go.mod` file:
 ```go
 require (
     // Add the module path here
-    github.com/muzonff/go-crypto-container v0.0.1
+    github.com/muzonff/go-crypto-container v1.0.0
 )
 ```
 
